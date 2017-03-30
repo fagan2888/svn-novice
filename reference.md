@@ -3,7 +3,7 @@ layout: reference
 permalink: /reference/
 ---
 
-## Git Cheatsheets for Quick Reference
+## Subversion Cheatsheets for Quick Reference
 
 *   A great [printable git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) is available in PDF from the
 [GitHub training website](https://services.github.com/resources/).
@@ -12,6 +12,9 @@ permalink: /reference/
 *   Both resources are also available in other languages e.g. Spanish, French, and more
 
 ## Glossary
+
+!! This needs to be updated for SVN
+
 
 {:auto_ids}
 change set
@@ -35,13 +38,6 @@ conflict
 HTTP
 :   The Hypertext Transfer [Protocol](#protocol) used for sharing web pages and other data
     on the World Wide Web.
-
-infective license
-:   A license, such as the [GPL](http://opensource.org/licenses/GPL-3.0),
-    that legally requires people who incorporate material under the
-    infective license
-    into their own work to also release under the same infective license
-    (e.g. under the GPL license).
 
 merge
 :   (a repository): To reconcile two sets of changes to a

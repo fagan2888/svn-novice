@@ -1,17 +1,23 @@
-git-novice
+svn-novice
 ==========
 
-An introduction to version control for novices using Git.
-Please see <https://swcarpentry.github.io/git-novice/> for a rendered version of this material,
+THIS IS NOT LIVE NOR READY.
+(remove this text when it is)
+
+
+An introduction to version control for novices using Subversion.
+Please see <https://swcarpentry.github.io/svn-novice/> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
 Maintainers:
 
-* [Ivan Gonzalez][gonzalez_ivan]
-* [Daisie Huang][huang_daisie]
+* [Lars Vilhuber][larsvilhuber]
+* [Sylverie Herbert][sh2258]
+* [Flavio Stancchi][fs379]
 
-[gonzalez_ivan]: http://software-carpentry.org/team/#gonzalez_ivan
-[huang_daisie]: http://software-carpentry.org/team/#huang_daisie
+[larsvilhuber]: https://github.com/larsvilhuber
+[fs379]: https://github.com/fs379
+[sh2258]: https://github.com/sh2258
 [lesson-example]: https://swcarpentry.github.io/lesson-example
